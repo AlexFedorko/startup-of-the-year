@@ -1,1 +1,1 @@
-# startup-of-the-year
+https://alexfedorko.github.io/startup-of-the-year/
