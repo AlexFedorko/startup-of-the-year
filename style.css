@@ -39,7 +39,7 @@ h1 {
   border-color: #ee4b08;
   --bs-btn-hover-bg: #ee4b08;
   --bs-btn-hover-border-color: #ee4b08;
-  border-width: 4px;
+  /*   border-width: 4px; */
 }
 
 hr {
